@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: aecbbed1e1067744381be251b3b9dfbb
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - mossPrefab: {fileID: 5008223267746806902, guid: 80e6d40974c8e5f4093a7da53ae4130a,
+      type: 3}
+  - mossCanvas: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

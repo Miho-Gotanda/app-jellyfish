@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 2e1087e796b6cf844915db0b595c09d5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - mizuKurage: {fileID: 1642268865, guid: b0a0ff889cfd6264ea70c2b4b6123c1c, type: 3}
+  - okiKurage: {fileID: 2281938811285791102, guid: 9c6f6cb7ee8eb074793f222f8ad3be46,
+      type: 3}
+  - takoKurage: {fileID: 410961457736508679, guid: 00d24f27bbd590146944df5b87bd26d8,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

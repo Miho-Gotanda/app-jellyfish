@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: abf3e3ab5c5779d4f9b550780e8f90a9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - food: {fileID: 3569975813901636891, guid: 68f86a36e218bd4468dd01f50e304d2d, type: 3}
+  - touchEffectPrefab: {fileID: 1143713246098182078, guid: 9207c255e8abbc74e949bab29091a981,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: aa88c560b25d70847a8d08c79cad0ae2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - mizukuragePanel: {instanceID: 0}
+  - panel: {instanceID: 0}
+  - okikuragePanel: {instanceID: 0}
+  - mizukurageChangePanel: {instanceID: 0}
+  - okikurageChangePanel: {instanceID: 0}
+  - moss: {fileID: 5008223267746806902, guid: 80e6d40974c8e5f4093a7da53ae4130a, type: 3}
+  - kurage: {fileID: 1642268865, guid: b0a0ff889cfd6264ea70c2b4b6123c1c, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
